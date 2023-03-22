@@ -1,0 +1,16 @@
+YEs, this is a 100% working GoldCoders Script, with all the features.  
+
+It has been decoded, and all backdoors have been removed by http://clonesite.do.am :)
+
+How to install.
+
+1. Go into your cpanel, and create a MySQL database.
+2. Upload the files from the archive to your server. 
+3. Set 777 permissions for the 'tmpl_c' folder(CHMOD).
+4. Run the install.php script and follow the instructions. For example:
+    http://www.yourdomain.com/install.php
+5. For the license key, type 1234567
+6. You are done installation.
+7. Say thanks to http://clonesite.do.am :)
+
+
